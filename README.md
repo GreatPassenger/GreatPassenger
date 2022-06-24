@@ -1,25 +1,14 @@
-<----HTML---->
-((((
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/2uxxXyTRFgIJaOZJTb/giphy.gif" width="300"/>
+  <h1>HELLO</h1>
+  <h2>My name is DENIS</h2>
+</div>
 
-<h1 class="About_me">👏Hi, i'am @GreatPassenger(real name: Denis). I'am ASP.NET Core MVC programmer. I'am 19y.o.👏</h1>
-<h2 class="Dream">🤔My dream is to be a better father, brother, son, grandson, grandfather. Also write a book and become morally stronger</h2>
+<div align="center" >
+  
+  <h1>ABOUT ME</h1>
+  <h2>I'am ASP.NET Core MVC Programmer</h2>
+  <h3>I'am 19y.o.</h3>
+</div>
 
-))))
 
-
-
-<----CSS---->
-((((
-
-.About_me 
-{
-  how-to-read: funny❤;
-  why-you-need-to-know: just know😎;
-}
-
-.Dream 
-{
-  how-to-read: thoughtfully🤔;
-}
-
-))))
